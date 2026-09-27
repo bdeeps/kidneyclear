@@ -1,0 +1,897 @@
+{
+  "title": "The history of understanding the kidneys",
+  "tagline": "From reading urine in a flask and cutting out stones to a machine that cleans blood and a kidney that can be given away.",
+  "intro": "For thousands of years doctors studied urine without knowing how it was made. Galen showed it comes from the kidneys, microscopes revealed their tiny filters and tubes, and physiologists worked out that blood pressure filters the blood and the tubules take most of it back. In the 20th century machines learned to do the kidney's job, surgeons learned to transplant one, and India built one of the world's largest transplant programmes.",
+  "eras": [
+    {
+      "id": "urine",
+      "name": "Reading the urine",
+      "from": -500,
+      "to": 1600,
+      "color": "#ffd166",
+      "summary": "Doctors study urine and remove stones, and Galen shows the kidneys make urine."
+    },
+    {
+      "id": "micro",
+      "name": "Under the microscope",
+      "from": 1600,
+      "to": 1870,
+      "color": "#c49bff",
+      "summary": "Microscopes reveal tubes, glomeruli, capsules and loops, and a doctor links kidney disease to protein in urine."
+    },
+    {
+      "id": "physiology",
+      "name": "How a nephron works",
+      "from": 1890,
+      "to": 1960,
+      "color": "#5ce1a9",
+      "summary": "Hormones, micropuncture and clearance tests explain filtering, reabsorbing and concentrating."
+    },
+    {
+      "id": "machines",
+      "name": "Machines and new kidneys",
+      "from": 1924,
+      "to": 1990,
+      "color": "#7aa2ff",
+      "summary": "Dialysis machines, transplants, fistulas and shock waves change what kidney failure means."
+    },
+    {
+      "id": "india",
+      "name": "Kidney care for everyone",
+      "from": 1970,
+      "to": 2026,
+      "color": "#ff9f43",
+      "summary": "India's first transplant, laws on donation, CKD stages and free dialysis."
+    }
+  ],
+  "events": [
+    {
+      "year": -400,
+      "date": "c. 400 BCE (Hippocratic writings, dates uncertain)",
+      "era": "urine",
+      "art": "flask",
+      "title": "Bubbles on the urine",
+      "who": "The Hippocratic writers",
+      "where": "Kos and the Greek world",
+      "country": "Greece",
+      "text": "Greek doctors of the Hippocratic school looked closely at urine to judge illness. One of their Aphorisms says that bubbles sitting on the urine point to disease of the kidneys, and a long illness.",
+      "why": "Foamy urine is still a warning sign today: it can mean protein is leaking through damaged filters.",
+      "box": "filter",
+      "sources": [
+        1,
+        0
+      ]
+    },
+    {
+      "year": -300,
+      "date": "compiled over centuries, c. 1st millennium BCE to early centuries CE (dates debated)",
+      "era": "urine",
+      "art": "person",
+      "key": true,
+      "title": "Cutting out bladder stones",
+      "who": "Sushruta and the Sushruta Samhita",
+      "where": "Ancient India (traditionally Varanasi)",
+      "country": "India",
+      "text": "The Sushruta Samhita, a Sanskrit surgical text built up over several centuries, describes how to remove a stone from the bladder through a cut in the perineum, with the patient held in position. It lists stones among the hardest diseases to treat.",
+      "why": "It is one of the oldest detailed descriptions of stone surgery, a problem people have fought for thousands of years.",
+      "box": "health",
+      "sources": [
+        2,
+        3
+      ]
+    },
+    {
+      "year": 170,
+      "date": "2nd century CE",
+      "era": "urine",
+      "art": "word",
+      "key": true,
+      "title": "Galen proves the kidneys make urine",
+      "who": "Galen of Pergamon",
+      "where": "Pergamon and Rome",
+      "country": "Turkey / Italy",
+      "text": "Some doctors of his day said urine simply seeped into the bladder. In On the Natural Faculties, Galen describes tying off the ureters of a living animal: the bladder stayed empty while the ureters above the knot swelled with urine.",
+      "why": "It was an early experiment showing that urine is made in the kidneys and carried down the ureters.",
+      "box": "anatomy",
+      "sources": [
+        4
+      ]
+    },
+    {
+      "year": 900,
+      "date": "c. 900 CE",
+      "era": "urine",
+      "art": "word",
+      "title": "A book on kidney and bladder stones",
+      "who": "Abu Bakr al-Razi (Rhazes)",
+      "where": "Rayy and Baghdad",
+      "country": "Iran / Iraq",
+      "text": "The Persian physician al-Razi wrote a treatise on stones in the kidney and bladder, describing their symptoms, how they differ, and how to treat them. His works were later translated into Latin and read in Europe for centuries.",
+      "why": "It set out kidney stones as a disease to be studied carefully, not just endured.",
+      "box": "health",
+      "sources": [
+        5,
+        40
+      ]
+    },
+    {
+      "year": 1300,
+      "date": "c. 1000 to 1600 CE",
+      "era": "urine",
+      "art": "flask",
+      "title": "The age of uroscopy",
+      "who": "Medieval doctors across the Islamic world and Europe",
+      "where": "Europe and the Middle East",
+      "country": "Many countries",
+      "text": "For centuries, looking at urine in a round glass flask called a matula was a doctor's main test. Colour charts linked each shade to an illness. Much of it was guesswork, and by the 1600s critics mocked 'piss prophets'.",
+      "why": "It showed that urine carries clues about the whole body, the idea behind modern urine tests.",
+      "box": "reabsorb",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1662,
+      "date": "1662",
+      "era": "micro",
+      "art": "lens",
+      "title": "The tubes inside the kidney",
+      "who": "Lorenzo Bellini",
+      "where": "Pisa",
+      "country": "Italy",
+      "text": "At about 19, Bellini published a study of the kidney's structure. He showed that it is not a solid lump of flesh but is full of tiny tubes that carry urine towards the pelvis. The collecting ducts are still called the ducts of Bellini.",
+      "why": "It was the first sign that the kidney works through countless tiny tubes.",
+      "box": "nephron",
+      "sources": [
+        6
+      ]
+    },
+    {
+      "year": 1666,
+      "date": "1666",
+      "era": "micro",
+      "art": "lens",
+      "key": true,
+      "title": "Tiny knots in the kidney",
+      "who": "Marcello Malpighi",
+      "where": "Bologna",
+      "country": "Italy",
+      "text": "Using an early microscope, Malpighi described small round bodies scattered through the kidney's outer layer, linked to its blood vessels. We now call them glomeruli; for a long time they were known as Malpighian bodies.",
+      "why": "He found the filters of the kidney, though nobody yet knew what they did.",
+      "box": "nephron",
+      "sources": [
+        7
+      ]
+    },
+    {
+      "year": 1827,
+      "date": "1827",
+      "era": "micro",
+      "art": "kidney",
+      "key": true,
+      "title": "Bright's disease",
+      "who": "Richard Bright",
+      "where": "Guy's Hospital, London",
+      "country": "UK",
+      "text": "Bright linked three things in his patients: swelling of the body, protein in the urine (it thickened when heated in a spoon) and hard, damaged kidneys seen after death. For a century, kidney disease of this kind was called Bright's disease.",
+      "why": "It was the first time a disease was clearly tied to the kidneys by testing urine at the bedside.",
+      "box": "health",
+      "sources": [
+        8
+      ]
+    },
+    {
+      "year": 1828,
+      "date": "1828",
+      "era": "micro",
+      "art": "molecule",
+      "title": "Urea made in a flask",
+      "who": "Friedrich Wöhler",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "Wöhler made urea, the main waste in urine, from chemicals that had nothing to do with living things. Urea is made by the liver from spare protein and removed by the kidneys.",
+      "why": "It helped show that the body's chemistry follows the same rules as any other chemistry.",
+      "box": "balance",
+      "sources": [
+        9
+      ]
+    },
+    {
+      "year": 1842,
+      "date": "1842",
+      "era": "micro",
+      "art": "kidney",
+      "key": true,
+      "title": "Bowman's capsule",
+      "who": "William Bowman",
+      "where": "King's College, London",
+      "country": "UK",
+      "text": "Bowman showed that each glomerulus sits inside a cup that is the blind end of a tubule, so blood vessels and the urine tube meet there. He suggested that water leaves the blood in the glomerulus. The cup is named after him.",
+      "why": "It revealed the basic plan of the nephron: a filter joined to a tube.",
+      "box": "nephron",
+      "sources": [
+        10
+      ]
+    },
+    {
+      "year": 1844,
+      "date": "1844",
+      "era": "micro",
+      "art": "hydraulic",
+      "key": true,
+      "title": "Blood pressure does the filtering",
+      "who": "Carl Ludwig",
+      "where": "Marburg",
+      "country": "Germany",
+      "text": "Ludwig proposed that blood pressure pushes fluid out of the glomerulus by plain physical filtration, and that the tubules then change it on its way. Many scientists thought only a 'vital force' could make urine.",
+      "why": "His filtration idea is the basis of how we explain the kidney today.",
+      "box": "filter",
+      "sources": [
+        11,
+        12
+      ]
+    },
+    {
+      "year": 1862,
+      "date": "1862",
+      "era": "micro",
+      "art": "lens",
+      "key": true,
+      "title": "The loop of Henle",
+      "who": "Jakob Henle",
+      "where": "Göttingen",
+      "country": "Germany",
+      "text": "In his book Zur Anatomie der Niere, Henle described the hairpin loop that the tubule makes deep into the medulla, with drawings of its thin and thick parts. For almost a century nobody knew what it was for.",
+      "why": "It is the part of the nephron that lets us make concentrated urine.",
+      "box": "reabsorb",
+      "sources": [
+        13,
+        14
+      ]
+    },
+    {
+      "year": 1898,
+      "date": "1898",
+      "era": "physiology",
+      "art": "flask",
+      "title": "Renin is found",
+      "who": "Robert Tigerstedt and Per Bergman",
+      "where": "Karolinska Institute, Stockholm",
+      "country": "Sweden",
+      "text": "Tigerstedt and his student Bergman found that an extract of rabbit kidney raised blood pressure when injected. They named the substance renin.",
+      "why": "It was the first clue that the kidneys help control blood pressure with hormones.",
+      "box": "balance",
+      "sources": [
+        15
+      ]
+    },
+    {
+      "year": 1906,
+      "date": "1906",
+      "era": "physiology",
+      "art": "person",
+      "title": "A hormone for red blood cells?",
+      "who": "Paul Carnot and Clotilde-Camille Deflandre",
+      "where": "Paris",
+      "country": "France",
+      "text": "Carnot and his colleague Deflandre reported that blood from anaemic rabbits made other rabbits produce more red blood cells, and proposed a hormone behind it. The idea was debated for decades before it was proved.",
+      "why": "It started the search for erythropoietin, which turned out to come mainly from the kidneys.",
+      "box": "balance",
+      "sources": [
+        16
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "physiology",
+      "art": "lens",
+      "title": "A pipette in a glomerulus",
+      "who": "Alfred Newton Richards and Joseph Wearn",
+      "where": "University of Pennsylvania, Philadelphia",
+      "country": "USA",
+      "text": "Using very fine glass pipettes, Richards and Wearn drew fluid straight out of Bowman's capsule in frogs. It had sugar and salt but no protein, just as filtration predicts.",
+      "why": "It settled an argument that had run for about 80 years: the glomerulus filters.",
+      "box": "filter",
+      "sources": [
+        17
+      ]
+    },
+    {
+      "year": 1924,
+      "date": "1924",
+      "era": "machines",
+      "art": "flask",
+      "title": "The first human dialysis",
+      "who": "Georg Haas",
+      "where": "Giessen",
+      "country": "Germany",
+      "text": "Haas passed a patient's blood through tubes of collodion membrane bathed in fluid for a short time. It did not save patients, but it showed that blood could be cleaned outside the body.",
+      "why": "It was the first step towards the artificial kidney.",
+      "box": "health",
+      "sources": [
+        20
+      ]
+    },
+    {
+      "year": 1935,
+      "date": "1930s to 1950s",
+      "era": "physiology",
+      "art": "chip",
+      "title": "Measuring filtration",
+      "who": "Homer W. Smith",
+      "where": "New York University",
+      "country": "USA",
+      "text": "Smith and his colleagues used inulin, a sugar that is filtered but neither taken back nor added by the tubules, to measure how fast the kidneys filter. His 1951 book The Kidney gathered what was known.",
+      "why": "It gave doctors a way to put a number on kidney function, like the eGFR used today.",
+      "box": "filter",
+      "sources": [
+        18
+      ]
+    },
+    {
+      "year": 1945,
+      "date": "1943 (first machine); 1945 (first survivor)",
+      "era": "machines",
+      "art": "kidney",
+      "key": true,
+      "title": "Kolff's rotating drum kidney",
+      "who": "Willem Kolff",
+      "where": "Kampen",
+      "country": "Netherlands",
+      "text": "During the Second World War, Kolff built a dialysis machine from sausage casing wound round a rotating drum in a bath of fluid, using parts such as orange-juice cans and car parts. His first patients died, but in 1945 a 67-year-old woman survived.",
+      "why": "It was the first dialysis machine to save a life, and the start of modern dialysis.",
+      "box": "health",
+      "sources": [
+        21,
+        20
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "1951",
+      "era": "physiology",
+      "art": "wave",
+      "title": "The countercurrent multiplier",
+      "who": "Werner Kuhn, Bartholomäus Hargitay and Heinrich Wirz",
+      "where": "Basel",
+      "country": "Switzerland",
+      "text": "Kuhn, a physical chemist, and Hargitay argued that the hairpin shape of the loop of Henle could build up saltiness step by step. Wirz measured rat kidneys and found the medulla gets saltier towards the tip. The idea was confirmed by Gottschalk and Mylle in 1958.",
+      "why": "It finally explained what Henle's loop is for: concentrating urine.",
+      "box": "reabsorb",
+      "sources": [
+        19
+      ]
+    },
+    {
+      "year": 1954,
+      "date": "23 December 1954",
+      "era": "machines",
+      "art": "person",
+      "key": true,
+      "title": "The first successful kidney transplant",
+      "who": "Joseph Murray and team",
+      "where": "Peter Bent Brigham Hospital, Boston",
+      "country": "USA",
+      "text": "Ronald Herrick gave a kidney to his identical twin, Richard, whose kidneys were failing. Because they were identical twins, the body did not reject the kidney. Richard lived eight more years. Murray shared the 1990 Nobel Prize.",
+      "why": "It proved that a transplanted organ can work, and that one kidney is enough for a donor.",
+      "box": "health",
+      "sources": [
+        22,
+        23
+      ]
+    },
+    {
+      "year": 1960,
+      "date": "1960",
+      "era": "machines",
+      "art": "tap",
+      "key": true,
+      "title": "A shunt for dialysis every week",
+      "who": "Belding Scribner, with Wayne Quinton and David Dillard",
+      "where": "University of Washington, Seattle",
+      "country": "USA",
+      "text": "Scribner's team made a U-shaped Teflon tube that stayed in a patient's arm, joining an artery to a vein, so dialysis could be repeated for years. Their first patient, Clyde Shields, lived more than 11 years. The first outpatient dialysis centre opened in Seattle in 1962.",
+      "why": "Dialysis changed from a one-off rescue into a treatment people could live on.",
+      "box": "health",
+      "sources": [
+        24
+      ]
+    },
+    {
+      "year": 1966,
+      "date": "1966",
+      "era": "machines",
+      "art": "person",
+      "title": "The arm fistula",
+      "who": "James Cimino, Michael Brescia and colleagues",
+      "where": "New York",
+      "country": "USA",
+      "text": "Surgeons joined an artery straight to a vein in the forearm. The vein grows big and strong, so it can be used for dialysis again and again without a tube left in the skin.",
+      "why": "The fistula is still the preferred way into the blood for haemodialysis.",
+      "box": "health",
+      "sources": [
+        25
+      ]
+    },
+    {
+      "year": 1971,
+      "date": "2 February 1971",
+      "era": "india",
+      "art": "kidney",
+      "key": true,
+      "title": "India's first successful kidney transplant",
+      "who": "Mohan Rao and K. V. Johny",
+      "where": "Christian Medical College, Vellore",
+      "country": "India",
+      "text": "Seventeen years after Boston, a team led by surgeon Mohan Rao and nephrologist K. V. Johny carried out India's first successful kidney transplant, from a living donor. They worked at night after normal hours and had prepared two donor-recipient pairs.",
+      "why": "It started kidney transplantation in India, now one of the largest programmes in the world.",
+      "box": "health",
+      "sources": [
+        28,
+        29
+      ]
+    },
+    {
+      "year": 1976,
+      "date": "1976",
+      "era": "machines",
+      "art": "waterdrop",
+      "title": "Dialysis inside your own belly",
+      "who": "Robert Popovich and Jack Moncrief",
+      "where": "Austin, Texas",
+      "country": "USA",
+      "text": "Popovich and Moncrief worked out continuous ambulatory peritoneal dialysis: fluid is left in the belly and swapped a few times a day, so wastes pass across the belly's own lining. People could do it at home.",
+      "why": "It gave people with kidney failure an option without a machine.",
+      "box": "health",
+      "sources": [
+        26
+      ]
+    },
+    {
+      "year": 1977,
+      "date": "1977 (purified); 1989 (medicine approved)",
+      "era": "machines",
+      "art": "molecule",
+      "title": "Erythropoietin purified",
+      "who": "Eugene Goldwasser, Takaji Miyake and Charles Kung",
+      "where": "University of Chicago",
+      "country": "USA",
+      "text": "After years of work, Goldwasser's team purified human erythropoietin from a large amount of urine. The gene was later cloned and, from 1989, man-made EPO was used for anaemia in people with kidney failure.",
+      "why": "It proved the kidney makes a hormone for red blood cells, and turned it into a medicine.",
+      "box": "balance",
+      "sources": [
+        37,
+        16
+      ]
+    },
+    {
+      "year": 1980,
+      "date": "February 1980",
+      "era": "machines",
+      "art": "soundwave",
+      "key": true,
+      "title": "Breaking stones with shock waves",
+      "who": "Christian Chaussy, Egbert Schmiedt and Dornier engineers",
+      "where": "Munich",
+      "country": "Germany",
+      "text": "A machine from Dornier, an aircraft company that had studied shock-wave damage, focused shock waves on a kidney stone from outside the body while the patient lay in a water bath. The stone broke into bits small enough to pass.",
+      "why": "Many stones could now be treated without cutting the body open.",
+      "box": "health",
+      "sources": [
+        27
+      ]
+    },
+    {
+      "year": 1994,
+      "date": "1994",
+      "era": "india",
+      "art": "scroll",
+      "title": "The Transplantation of Human Organs Act",
+      "who": "Parliament of India",
+      "where": "New Delhi",
+      "country": "India",
+      "text": "The Act set rules for organ donation, recognised brain death so that organs could be donated after death, and banned buying and selling organs. It was amended in 2011 and extended to tissues.",
+      "why": "It is the legal backbone of organ donation in India.",
+      "sources": [
+        39,
+        30,
+        28
+      ]
+    },
+    {
+      "year": 2002,
+      "date": "2002",
+      "era": "india",
+      "art": "word",
+      "title": "Kidney disease gets stages",
+      "who": "US National Kidney Foundation (K/DOQI)",
+      "where": "USA",
+      "country": "USA",
+      "text": "Experts defined chronic kidney disease by filtration rate and kidney damage, and split it into five stages. An international group, KDIGO, later refined them and added protein in the urine.",
+      "why": "Doctors everywhere could now describe and track kidney disease the same way, as in the CKD stages you can explore here.",
+      "box": "health",
+      "sources": [
+        32
+      ]
+    },
+    {
+      "year": 2016,
+      "date": "7 April 2016",
+      "era": "india",
+      "art": "building",
+      "title": "Free dialysis in district hospitals",
+      "who": "Ministry of Health and Family Welfare",
+      "where": "India",
+      "country": "India",
+      "text": "India launched the Pradhan Mantri National Dialysis Programme under the National Health Mission, to give free dialysis to poor patients at district hospitals. By the end of 2022 it ran in all 36 states and union territories.",
+      "why": "Dialysis moved closer to home for many families who could not afford it.",
+      "sources": [
+        31
+      ]
+    },
+    {
+      "year": 2023,
+      "date": "2023",
+      "era": "india",
+      "art": "trophy",
+      "title": "More than 13,000 kidney transplants in a year",
+      "who": "Transplant teams across India (NOTTO data)",
+      "where": "India",
+      "country": "India",
+      "text": "India recorded about 13,400 kidney transplants in 2023, most from living donors, many of them women giving a kidney to a relative. The total of all organ transplants had more than tripled in ten years.",
+      "why": "Yet it is still far fewer than the number of people whose kidneys fail each year.",
+      "box": "health",
+      "sources": [
+        30,
+        35
+      ]
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Experiment showing urine is made by the kidneys",
+      "value": "2nd century CE",
+      "who": "Galen, Roman Empire"
+    },
+    {
+      "label": "Glomeruli described",
+      "value": "1666",
+      "who": "Marcello Malpighi, Italy"
+    },
+    {
+      "label": "Dialysis patient to survive",
+      "value": "1945",
+      "who": "Willem Kolff, Netherlands"
+    },
+    {
+      "label": "Successful kidney transplant",
+      "value": "1954",
+      "who": "Joseph Murray, USA"
+    },
+    {
+      "label": "Kidney transplant in India",
+      "value": "1971",
+      "who": "Mohan Rao and K. V. Johny, CMC Vellore"
+    },
+    {
+      "label": "Shock-wave treatment of a kidney stone",
+      "value": "1980",
+      "who": "Dornier and LMU Munich, Germany"
+    }
+  ],
+  "people": [
+    {
+      "name": "Sushruta",
+      "life": "dates uncertain",
+      "role": "Surgeon (attributed author)",
+      "from": "India",
+      "note": "The surgical text named after him describes removing bladder stones."
+    },
+    {
+      "name": "Richard Bright",
+      "life": "1789 – 1858",
+      "role": "Physician",
+      "from": "England",
+      "note": "Linked swelling, protein in urine and damaged kidneys."
+    },
+    {
+      "name": "William Bowman",
+      "life": "1816 – 1892",
+      "role": "Surgeon and anatomist",
+      "from": "England",
+      "note": "Found the capsule that catches the filtrate."
+    },
+    {
+      "name": "Carl Ludwig",
+      "life": "1816 – 1895",
+      "role": "Physiologist",
+      "from": "Germany",
+      "note": "Said blood pressure drives filtration."
+    },
+    {
+      "name": "Willem Kolff",
+      "life": "1911 – 2009",
+      "role": "Physician and inventor",
+      "from": "Netherlands",
+      "note": "Built the first dialysis machine to save a patient."
+    },
+    {
+      "name": "Joseph Murray",
+      "life": "1919 – 2012",
+      "role": "Surgeon",
+      "from": "USA",
+      "note": "Led the first successful kidney transplant; Nobel Prize 1990."
+    },
+    {
+      "name": "Belding Scribner",
+      "life": "1921 – 2003",
+      "role": "Nephrologist",
+      "from": "USA",
+      "note": "His shunt made long-term dialysis possible."
+    },
+    {
+      "name": "Homer W. Smith",
+      "life": "1895 – 1962",
+      "role": "Physiologist",
+      "from": "USA",
+      "note": "Measured how fast the kidneys filter, and wrote the classic book The Kidney."
+    }
+  ],
+  "series": [
+    {
+      "id": "ckd",
+      "title": "Adults living with chronic kidney disease, worldwide",
+      "unit": "million people",
+      "log": false,
+      "after": "india",
+      "caption": "Global Burden of Disease 2023: the number of adults with CKD roughly doubled between 1990 and 2023, as populations grew, aged and more people developed diabetes and high blood pressure.",
+      "points": [
+        {
+          "year": 1990,
+          "value": 378,
+          "label": "1990: about 378 million (GBD 2023, IHME)"
+        },
+        {
+          "year": 2023,
+          "value": 788,
+          "label": "2023: about 788 million, about 138 million of them in India (GBD 2023)"
+        }
+      ]
+    },
+    {
+      "id": "tx",
+      "title": "Kidney transplants in India per year",
+      "unit": "transplants",
+      "log": false,
+      "after": "india",
+      "caption": "Kidney transplants reported in India: most come from living donors.",
+      "points": [
+        {
+          "year": 2019,
+          "value": 9751,
+          "label": "2019: 9,751 (Shroff et al., Exp Clin Transplant 2021)"
+        },
+        {
+          "year": 2023,
+          "value": 13426,
+          "label": "2023: about 13,426 (NOTTO data via WHO GODT)"
+        }
+      ]
+    }
+  ],
+  "facts": [
+    "Your kidneys filter about 180 litres of fluid a day, and send about 99% of it back into your blood.",
+    "A Greek aphorism from about 400 BCE already linked bubbles on urine to kidney disease. Foamy urine can still mean protein is leaking.",
+    "Kolff's first artificial kidney used sausage casing wound round a drum, built partly from orange-juice cans and car parts in wartime.",
+    "The first successful transplant worked because donor and patient were identical twins, so the body did not see the kidney as foreign.",
+    "The first shock-wave stone machine came from Dornier, an aircraft maker that had studied how shock waves damage planes."
+  ],
+  "sources": [
+    {
+      "title": "Uroscopy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Uroscopy"
+    },
+    {
+      "title": "Aphorisms, section VII, by Hippocrates (trans. Francis Adams)",
+      "publisher": "MIT Internet Classics Archive",
+      "url": "http://classics.mit.edu/Hippocrates/aphorisms.7.vii.html"
+    },
+    {
+      "title": "Sushruta Samhita",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta_Samhita"
+    },
+    {
+      "title": "Sushruta",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sushruta"
+    },
+    {
+      "title": "Galen, On the Natural Faculties, Book I",
+      "publisher": "LacusCurtius, University of Chicago",
+      "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Galen/Natural_Faculties/1*.html"
+    },
+    {
+      "title": "Abu Bakr al-Razi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abu_Bakr_al-Razi"
+    },
+    {
+      "title": "Lorenzo Bellini",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lorenzo_Bellini"
+    },
+    {
+      "title": "Marcello Malpighi",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marcello_Malpighi"
+    },
+    {
+      "title": "Richard Bright (physician)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Richard_Bright_(physician)"
+    },
+    {
+      "title": "Wöhler synthesis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/W%C3%B6hler_synthesis"
+    },
+    {
+      "title": "Sir William Bowman, 1st Baronet",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sir_William_Bowman,_1st_Baronet"
+    },
+    {
+      "title": "Carl Ludwig",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Ludwig"
+    },
+    {
+      "title": "Carl F. W. Ludwig",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/biography/Carl-F-W-Ludwig"
+    },
+    {
+      "title": "Friedrich Gustav Jakob Henle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Friedrich_Gustav_Jakob_Henle"
+    },
+    {
+      "title": "Henle, Zur Anatomie der Niere (Göttingen, 1862), digitised",
+      "publisher": "Heidelberg University Library",
+      "url": "https://digi.ub.uni-heidelberg.de/diglit/henle1862"
+    },
+    {
+      "title": "Renin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Renin"
+    },
+    {
+      "title": "Erythropoietin",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erythropoietin"
+    },
+    {
+      "title": "Resolving an 80-yr-old controversy: the beginning of the modern era of renal physiology",
+      "publisher": "Advances in Physiology Education (American Physiological Society), 2014",
+      "url": "https://journals.physiology.org/doi/full/10.1152/advan.00105.2014"
+    },
+    {
+      "title": "Homer W. Smith",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Homer_W._Smith"
+    },
+    {
+      "title": "Werner Kuhn (chemist)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Werner_Kuhn_(chemist)"
+    },
+    {
+      "title": "Hemodialysis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hemodialysis"
+    },
+    {
+      "title": "Willem Johan Kolff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Willem_Johan_Kolff"
+    },
+    {
+      "title": "Joseph E. Murray: Facts",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/medicine/1990/murray/facts/"
+    },
+    {
+      "title": "Joseph Murray",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Murray"
+    },
+    {
+      "title": "Belding Hibbard Scribner",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Belding_Hibbard_Scribner"
+    },
+    {
+      "title": "Arteriovenous fistula",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Arteriovenous_fistula"
+    },
+    {
+      "title": "Peritoneal dialysis",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Peritoneal_dialysis"
+    },
+    {
+      "title": "Extracorporeal shockwave therapy",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Extracorporeal_shockwave_therapy"
+    },
+    {
+      "title": "Kidney Transplantation in India: Past, Present and Future",
+      "publisher": "Indian Journal of Nephrology",
+      "url": "https://indianjnephrol.org/kidney-transplantation-in-indiapast-present-and-future/"
+    },
+    {
+      "title": "Dr. M. Mohan Rao: pioneering transplant surgeon",
+      "publisher": "CMC Vellore Alumni Association",
+      "url": "https://www.cmcvellorealumni.org/dr-m-mohan-rao-pioneering-transplant-surgeon-mbbs-batch-of-1955-ms-general-surgery-batch-of-1962-m-ch-urology-batch-of-1965/"
+    },
+    {
+      "title": "Current State of Live and Deceased Donor Kidney Transplantation in India (Kidney360, 2025)",
+      "publisher": "PubMed Central",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13134797/"
+    },
+    {
+      "title": "Pradhan Mantri National Dialysis Programme",
+      "publisher": "Ministry of Health and Family Welfare, Government of India",
+      "url": "https://pmndp.mohfw.gov.in/en"
+    },
+    {
+      "title": "K/DOQI clinical practice guidelines for chronic kidney disease (Am J Kidney Dis 39, suppl. 1, 2002)",
+      "publisher": "PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/11904577/"
+    },
+    {
+      "title": "Chronic kidney disease has more than doubled since 1990, now affecting nearly 800 million people worldwide",
+      "publisher": "Institute for Health Metrics and Evaluation",
+      "url": "https://www.healthdata.org/news-events/newsroom/news-releases/chronic-kidney-disease-has-more-doubled-1990-now-affecting"
+    },
+    {
+      "title": "Organ Donation and Transplantation in India in 2019 (Exp Clin Transplant, 2021)",
+      "publisher": "Experimental and Clinical Transplantation",
+      "url": "https://www.ectrx.org/detail/current/2021/19/12/0/1313/0"
+    },
+    {
+      "title": "Annual organ transplants in India rise more than three times in last 10 years (PTI, NOTTO data)",
+      "publisher": "The Week",
+      "url": "https://www.theweek.in/wire-updates/national/2024/08/03/des43-organ-transplants-notto.html"
+    },
+    {
+      "title": "Your Kidneys & How They Work",
+      "publisher": "NIDDK, US National Institutes of Health",
+      "url": "https://www.niddk.nih.gov/health-information/kidney-disease/kidneys-how-they-work"
+    },
+    {
+      "title": "Eugene Goldwasser",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eugene_Goldwasser"
+    },
+    {
+      "title": "Kidney transplantation",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kidney_transplantation"
+    },
+    {
+      "title": "Transplantation of Human Organs Act, 1994",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Transplantation_of_Human_Organs_Act,_1994"
+    },
+    {
+      "title": "Kidney stone disease",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kidney_stone_disease"
+    }
+  ]
+}

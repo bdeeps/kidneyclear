@@ -1,0 +1,104 @@
+{
+  "slug": "kidneyclear",
+  "box": 39,
+  "date": "2026-10-19",
+  "title": "KidneyClear",
+  "question": "How do the kidneys work?",
+  "hook": "Every day your kidneys squeeze about 180 litres out of your blood and quietly put 99% of it back. Zoom into a nephron, push plasma through a three-layer filter, watch ADH turn urine dark, and see how dialysis and transplants took over when kidneys fail.",
+  "thumbText": "HOW YOUR KIDNEYS WORK",
+  "field": "body",
+  "minutes": 15,
+  "tags": [
+    "kidneys",
+    "nephron",
+    "urine",
+    "dialysis",
+    "kidney transplant",
+    "human body",
+    "biology",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Two beans at your back",
+      "text": "Two fist-sized kidneys, about 150 g each, sit against the back wall of the abdomen, the right a little lower under the liver. They get about 1.1 to 1.2 litres of blood a minute, a fifth to a quarter of the heart's output. Urine runs down the ureters into the bladder."
+    },
+    {
+      "title": "A million tiny filters",
+      "text": "Each kidney has about a million nephrons (from about 200,000 to over 2.5 million). Each is a glomerulus, a knot of capillaries in Bowman's capsule, joined to a long tubule wrapped in capillaries."
+    },
+    {
+      "title": "Filtering by blood pressure",
+      "text": "About 55 mmHg of blood pressure, minus 15 from the capsule and 30 from blood proteins, leaves a net push of about 10 mmHg. Through a three-layer filter that is enough for about 125 mL a minute, 180 litres a day. Water, salt, glucose and urea pass; cells and big proteins stay."
+    },
+    {
+      "title": "Taking 99% back",
+      "text": "The proximal tubule reclaims about two thirds of the salt and water and all the glucose. The loop of Henle makes the medulla salty, and ADH decides how much water the collecting ducts pull back by osmosis: from about 50 to 1,200 mOsm/kg, pale to dark."
+    },
+    {
+      "title": "More than a filter",
+      "text": "The kidneys steer blood pressure with renin, angiotensin II and aldosterone, answer ADH to save water, keep potassium and acid in range, activate vitamin D, and send EPO to make red blood cells when oxygen is low."
+    },
+    {
+      "title": "When kidneys fail",
+      "text": "Stones form when urine is too concentrated. Chronic kidney disease, mostly from diabetes and high blood pressure, affects about 788 million adults, about 138 million in India, often without symptoms. Dialysis and transplants can take over. For your own health, talk to a doctor."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Nephron",
+      "def": "The kidney's working unit: a glomerulus and a long tubule. About a million per kidney."
+    },
+    {
+      "term": "Glomerulus",
+      "def": "A knot of capillaries where blood pressure filters plasma into Bowman's capsule."
+    },
+    {
+      "term": "GFR",
+      "def": "Glomerular filtration rate: about 125 mL a minute, or 180 litres a day, in a young adult."
+    },
+    {
+      "term": "Reabsorption",
+      "def": "Taking water and useful substances back from the tubule into the blood; about 99% of the water."
+    },
+    {
+      "term": "Loop of Henle",
+      "def": "The hairpin part of the tubule that makes the medulla salty so urine can be concentrated."
+    },
+    {
+      "term": "ADH (vasopressin)",
+      "def": "A pituitary hormone that makes the collecting ducts take back more water."
+    },
+    {
+      "term": "Renin",
+      "def": "A kidney enzyme released when blood pressure falls; it starts the chain to angiotensin II and aldosterone."
+    },
+    {
+      "term": "Erythropoietin (EPO)",
+      "def": "A kidney hormone that tells bone marrow to make red blood cells."
+    },
+    {
+      "term": "Dialysis",
+      "def": "Cleaning the blood with a machine filter or the belly's own lining when the kidneys fail."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "kidneyclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}
